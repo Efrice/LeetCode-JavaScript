@@ -6,7 +6,7 @@
 
 #### 贡献指南
 
-题解仓库离不开诸位的贡献，大家可以阅读第一篇 `1.两数之和.md` 文章当作模板来写，欢迎提供不一样的题解思路。
+题解仓库离不开诸位的贡献，大家可以阅读第一篇 `1.两数之和.md` 文章(注意文件名不要有空格)当作模板来写，欢迎提供不一样的题解思路。
 
 #### 当前进度
 
@@ -22,3 +22,8 @@
 | [27.移除元素](https://efrice.github.io/problems/27.移除元素.html)                             |
 | [35.搜索插入位置](https://efrice.github.io/problems/35.搜索插入位置.html)                     |
 | [58.最后一个单词的长度](https://efrice.github.io/problems/58.最后一个单词的长度.html)         |
+| [66.加一](https://efrice.github.io/problems/66.加一.html)                                     |
+| [67.二进制求和](https://efrice.github.io/problems/67.二进制求和.html)                         |
+| [69.x 的平方根](https://efrice.github.io/problems/69.x的平方根.html)                          |
+| [70.爬楼梯](https://efrice.github.io/problems/70.爬楼梯.html)                                 |
+| [83.删除排序链表中的重复元素](https://efrice.github.io/problems/58.最后一个单词的长度.html)   |
