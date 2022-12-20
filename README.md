@@ -37,3 +37,8 @@
 | [111.二叉树的最小深度](https://efrice.github.io/problems/111.二叉树的最小深度.html)                     |
 | [112.路径总和](https://efrice.github.io/problems/112.路径总和.html)                                     |
 | [118.杨辉三角](https://efrice.github.io/problems/118.杨辉三角.html)                                     |
+| [119.杨辉三角 II](https://efrice.github.io/problems/119.杨辉三角II.html)                                |
+| [121.买卖股票的最佳时机](https://efrice.github.io/problems/121.买卖股票的最佳时机.html)                 |
+| [125.验证回文串](https://efrice.github.io/problems/125.验证回文串.html)                                 |
+| [144.二叉树的前序遍历](https://efrice.github.io/problems/144.二叉树的前序遍历.html)                     |
+| [145.二叉树的后序遍历](https://efrice.github.io/problems/145.二叉树的后序遍历.html)                     |
