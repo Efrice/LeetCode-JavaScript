@@ -42,3 +42,8 @@
 | [125.验证回文串](https://efrice.github.io/problems/125.验证回文串.html)                                 |
 | [144.二叉树的前序遍历](https://efrice.github.io/problems/144.二叉树的前序遍历.html)                     |
 | [145.二叉树的后序遍历](https://efrice.github.io/problems/145.二叉树的后序遍历.html)                     |
+| [160.相交链表](https://efrice.github.io/problems/160.相交链表.html)                                     |
+| [168.Excel 表列名称](https://efrice.github.io/problems/168.Excel表列名称.html)                          |
+| [169.多数元素](https://efrice.github.io/problems/169.多数元素.html)                                     |
+| [171.Excel 表列序号](https://efrice.github.io/problems/171.Excel表列序号.html)                          |
+| [202.快乐数](https://efrice.github.io/problems/202.快乐数.html)                                         |
