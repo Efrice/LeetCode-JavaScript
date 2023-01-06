@@ -1,8 +1,6 @@
 #### LeetCode 前端题解
 
-- 解决前端在 LeetCode 上寻找相关题解的痛点；
-- 欢迎各位分享讨论刷题过程中的心得；
-- 欢迎分享大佬文章等相关资料的讲解。
+解决前端在 LeetCode 上寻找题解的痛点。
 
 #### 贡献指南
 
@@ -47,3 +45,26 @@
 | [169.多数元素](https://efrice.github.io/problems/169.多数元素.html)                                     |
 | [171.Excel 表列序号](https://efrice.github.io/problems/171.Excel表列序号.html)                          |
 | [202.快乐数](https://efrice.github.io/problems/202.快乐数.html)                                         |
+| [203.移除链表元素](https://efrice.github.io/problems/203.移除链表元素.html)                             |
+| [205.同构字符串](https://efrice.github.io/problems/205.同构字符串.html)                                 |
+| [206.反转链表](https://efrice.github.io/problems/206.反转链表.html)                                     |
+| [217.存在重复元素](https://efrice.github.io/problems/217.存在重复元素.html)                             |
+| [219.存在重复元素 II](https://efrice.github.io/problems/219.存在重复元素II.html)                        |
+| [225.用队列实现栈](https://efrice.github.io/problems/225.用队列实现栈.html)                             |
+| [226.翻转二叉树](https://efrice.github.io/problems/226.翻转二叉树.html)                                 |
+| [228.汇总区间](https://efrice.github.io/problems/228.汇总区间.html)                                     |
+| [232.用栈实现队列](https://efrice.github.io/problems/232.用栈实现队列.html)                             |
+| [234.回文链表](https://efrice.github.io/problems/234.回文链表.html)                                     |
+| [242.有效的字母异位词](https://efrice.github.io/problems/242.有效的字母异位词.html)                     |
+| [257.二叉树的所有路径](https://efrice.github.io/problems/257.二叉树的所有路径.html)                     |
+| [258.各位相加](https://efrice.github.io/problems/258.各位相加.html)                                     |
+| [263.丑数](https://efrice.github.io/problems/263.丑数.html)                                             |
+| [290.单词规律](https://efrice.github.io/problems/290.单词规律.html)                                     |
+| [292.Nim 游戏](https://efrice.github.io/problems/292.Nim游戏.html)                                      |
+| [303.区域和检索-数组不可变](https://efrice.github.io/problems/303.区域和检索-数组不可变.html)           |
+| [326.3 的幂](https://efrice.github.io/problems/326.3的幂.html)                                          |
+| [338.比特位计数](https://efrice.github.io/problems/338.比特位计数.html)                                 |
+| [342.4 的幂](https://efrice.github.io/problems/342.4的幂.html)                                          |
+| [345.反转字符串中的元音字母](https://efrice.github.io/problems/345.反转字符串中的元音字母.html)         |
+| [383.赎金信](https://efrice.github.io/problems/383.赎金信.html)                                         |
+| [387.字符串中的第一个唯一字符](https://efrice.github.io/problems/387.字符串中的第一个唯一字符.html)     |
