@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.921dc848.js";const A=JSON.parse('{"title":"119. 杨辉三角 II","description":"","frontmatter":{},"headers":[],"relativePath":"problems/119.杨辉三角II.md"}'),l={name:"problems/119.杨辉三角II.md"},o=p("",9),F=[o];function e(c,r,t,y,D,C){return a(),n("div",null,F)}const d=s(l,[["render",e]]);export{A as __pageData,d as default};
