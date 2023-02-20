@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.c23e8632.js";const u=JSON.parse('{"title":"228. 汇总区间","description":"","frontmatter":{},"headers":[],"relativePath":"problems/228.汇总区间.md"}'),l={name:"problems/228.汇总区间.md"},o=p("",10),e=[o];function t(r,c,F,y,D,C){return a(),n("div",null,e)}const i=s(l,[["render",t]]);export{u as __pageData,i as default};

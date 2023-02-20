@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.c23e8632.js";const i=JSON.parse('{"title":"326. 3 的幂","description":"","frontmatter":{},"headers":[],"relativePath":"problems/326.3的幂.md"}'),o={name:"problems/326.3的幂.md"},l=p("",11),e=[l];function r(t,c,y,F,A,D){return a(),n("div",null,e)}const _=s(o,[["render",r]]);export{i as __pageData,_ as default};

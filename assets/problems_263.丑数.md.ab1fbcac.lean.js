@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.c23e8632.js";const i=JSON.parse('{"title":"263. 丑数","description":"","frontmatter":{},"headers":[],"relativePath":"problems/263.丑数.md"}'),p={name:"problems/263.丑数.md"},o=l("",8),e=[o];function r(c,t,F,y,D,C){return a(),n("div",null,e)}const _=s(p,[["render",r]]);export{i as __pageData,_ as default};
