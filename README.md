@@ -68,3 +68,15 @@
 | [345.反转字符串中的元音字母](https://efrice.github.io/problems/345.反转字符串中的元音字母.html)         |
 | [383.赎金信](https://efrice.github.io/problems/383.赎金信.html)                                         |
 | [387.字符串中的第一个唯一字符](https://efrice.github.io/problems/387.字符串中的第一个唯一字符.html)     |
+| [389.找不同](https://efrice.github.io/problems/389.找不同.html)                                         |
+| [392.判断子序列](https://efrice.github.io/problems/392.判断子序列.html)                                 |
+| [401.二进制手表](https://efrice.github.io/problems/401.二进制手表.html)                                 |
+| [404.左叶子之和](https://efrice.github.io/problems/404.左叶子之和.html)                                 |
+| [405.数字转换为十六进制数](https://efrice.github.io/problems/405.数字转换为十六进制数.html)             |
+| [409.最长回文串](https://efrice.github.io/problems/409.最长回文串.html)                                 |
+| [412.FizzBuzz](https://efrice.github.io/problems/412.FizzBuzz.html)                                     |
+| [414.第三大的数](https://efrice.github.io/problems/414.第三大的数.html)                                 |
+| [415.字符串相加](https://efrice.github.io/problems/415.字符串相加.html)                                 |
+| [434.字符串中的单词数](https://efrice.github.io/problems/434.字符串中的单词数.html)                     |
+| [448.找到所有数组中消失的数字](https://efrice.github.io/problems/448.找到所有数组中消失的数字.html)     |
+| [455.分发饼干](https://efrice.github.io/problems/455.分发饼干.html)                                     |
