@@ -80,3 +80,11 @@
 | [434.字符串中的单词数](https://efrice.github.io/problems/434.字符串中的单词数.html)                     |
 | [448.找到所有数组中消失的数字](https://efrice.github.io/problems/448.找到所有数组中消失的数字.html)     |
 | [455.分发饼干](https://efrice.github.io/problems/455.分发饼干.html)                                     |
+| [459.重复的子字符串](https://efrice.github.io/problems/459.重复的子字符串.html)                         |
+| [461.汉明距离](https://efrice.github.io/problems/461.汉明距离.html)                                     |
+| [463.岛屿的周长](https://efrice.github.io/problems/463.岛屿的周长.html)                                 |
+| [476.数字的补数](https://efrice.github.io/problems/476.数字的补数.html)                                 |
+| [482.密钥格式化](https://efrice.github.io/problems/482.密钥格式化.html)                                 |
+| [485.最大连续 1 的个数](https://efrice.github.io/problems/485.最大连续1的个数.html)                     |
+| [492.构造矩形](https://efrice.github.io/problems/492.构造矩形.html)                                     |
+| [495.提莫攻击](https://efrice.github.io/problems/495.提莫攻击.html)                                     |
