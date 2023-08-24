@@ -3,15 +3,8 @@ const path = require("path")
 const shell = require("shelljs")
 
 const currentDistDir = path.resolve(__dirname, "../dist")
-const targetDistDir = path.resolve(__dirname, "../../efrice-gh-pages")
+const targetDistDir = path.resolve(__dirname, "../../LeetCode-JavaScript-gh-pages")
 fs.copySync(currentDistDir, targetDistDir)
-
-const currentProblemsDir = path.resolve(__dirname, "../docs/problems")
-const targetProblemsDir = path.resolve(
-  __dirname,
-  "../../LeetCode-JavaScript/problems"
-)
-fs.copySync(currentProblemsDir, targetProblemsDir)
 
 if (new Date().getDay() === 7) {
   shell.cd(targetDistDir)

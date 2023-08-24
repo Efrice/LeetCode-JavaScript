@@ -1,9 +1,10 @@
 export default {
   title: "efrice",
-  description: "前端 LeetCode 刷题算法进阶之路",
+  description: "前端 LeetCode 算法进阶之路",
   outDir: "../dist",
+	base: "/LeetCode-JavaScript/",
   themeConfig: {
-    base: "/LeetCode-JavaScript/",
+    base: "/",
     sidebar: [
       {
         items: [
