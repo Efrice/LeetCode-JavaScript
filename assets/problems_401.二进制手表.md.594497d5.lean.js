@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as p}from"./app.88eee081.js";const i=JSON.parse('{"title":"401. 二进制手表","description":"","frontmatter":{},"headers":[],"relativePath":"problems/401.二进制手表.md"}'),l={name:"problems/401.二进制手表.md"},o=p("",10),e=[o];function t(r,c,y,F,D,C){return a(),n("div",null,e)}const u=s(l,[["render",t]]);export{i as __pageData,u as default};

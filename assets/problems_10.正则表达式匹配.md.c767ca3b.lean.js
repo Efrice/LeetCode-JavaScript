@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,d as p}from"./app.7e8fbadb.js";const i=JSON.parse('{"title":"10. 正则表达式匹配","description":"","frontmatter":{},"headers":[],"relativePath":"problems/10.正则表达式匹配.md"}'),l={name:"problems/10.正则表达式匹配.md"},o=p("",8),e=[o];function t(c,r,F,y,D,C){return n(),a("div",null,e)}const u=s(l,[["render",t]]);export{i as __pageData,u as default};

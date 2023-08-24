@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as l}from"./app.88eee081.js";const i=JSON.parse('{"title":"1267. 统计参与通信的服务器","description":"","frontmatter":{},"headers":[],"relativePath":"problems/1267.统计参与通信的服务器.md"}'),p={name:"problems/1267.统计参与通信的服务器.md"},o=l("",10),e=[o];function c(r,t,F,y,D,C){return a(),n("div",null,e)}const d=s(p,[["render",c]]);export{i as __pageData,d as default};

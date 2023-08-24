@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.7e8fbadb.js";const i=JSON.parse('{"title":"232. 用栈实现队列","description":"","frontmatter":{},"headers":[],"relativePath":"problems/232.用栈实现队列.md"}'),l={name:"problems/232.用栈实现队列.md"},o=p("",11),e=[o];function t(r,c,y,F,D,A){return a(),n("div",null,e)}const u=s(l,[["render",t]]);export{i as __pageData,u as default};
