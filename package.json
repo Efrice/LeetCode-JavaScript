@@ -4,9 +4,13 @@
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs"
+    "build": "vitepress build docs",
+    "pre": "node ./script/deploy.js",
+    "post": "node ./script/postBuild.js"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.31"
+    "fs-extra": "^11.1.0",
+    "shelljs": "^0.8.5",
+    "vitepress": "1.0.0-alpha.32"
   }
 }
