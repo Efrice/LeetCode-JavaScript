@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as o}from"./app.99dd9859.js";const i=JSON.parse('{"title":"205. 同构字符串","description":"","frontmatter":{},"headers":[],"relativePath":"problems/205.同构字符串.md"}'),p={name:"problems/205.同构字符串.md"},l=o("",8),t=[l];function e(r,c,F,y,D,A){return a(),n("div",null,t)}const u=s(p,[["render",e]]);export{i as __pageData,u as default};

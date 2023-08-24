@@ -1,1 +1,0 @@
-import{_ as s,c as a,o as n,d as p}from"./app.99dd9859.js";const i=JSON.parse('{"title":"492. 构造矩形","description":"","frontmatter":{},"headers":[],"relativePath":"problems/492.构造矩形.md"}'),l={name:"problems/492.构造矩形.md"},o=p("",9),e=[o];function r(t,c,y,F,D,A){return n(),a("div",null,e)}const _=s(l,[["render",r]]);export{i as __pageData,_ as default};

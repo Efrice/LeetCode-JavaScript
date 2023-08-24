@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as o}from"./app.99dd9859.js";const i=JSON.parse('{"title":"389. 找不同","description":"","frontmatter":{},"headers":[],"relativePath":"problems/389.找不同.md"}'),l={name:"problems/389.找不同.md"},p=o("",7),e=[p];function t(r,c,y,F,D,C){return a(),n("div",null,e)}const d=s(l,[["render",t]]);export{i as __pageData,d as default};

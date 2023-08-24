@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.22b4b678.js";const i=JSON.parse('{"title":"405. 数字转换为十六进制数","description":"","frontmatter":{},"headers":[],"relativePath":"problems/405.数字转换为十六进制数.md"}'),l={name:"problems/405.数字转换为十六进制数.md"},o=p("",7),e=[o];function t(r,c,F,y,D,C){return a(),n("div",null,e)}const u=s(l,[["render",t]]);export{i as __pageData,u as default};

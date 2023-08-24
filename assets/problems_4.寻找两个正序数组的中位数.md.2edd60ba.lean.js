@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as l}from"./app.99dd9859.js";const i=JSON.parse('{"title":"4. 寻找两个正序数组的中位数","description":"","frontmatter":{},"headers":[],"relativePath":"problems/4.寻找两个正序数组的中位数.md"}'),p={name:"problems/4.寻找两个正序数组的中位数.md"},o=l("",7),e=[o];function r(t,c,y,F,D,C){return a(),n("div",null,e)}const m=s(p,[["render",r]]);export{i as __pageData,m as default};
