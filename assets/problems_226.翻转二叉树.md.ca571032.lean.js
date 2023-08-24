@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as l}from"./app.22b4b678.js";const i=JSON.parse('{"title":"226. 翻转二叉树","description":"","frontmatter":{},"headers":[],"relativePath":"problems/226.翻转二叉树.md"}'),p={name:"problems/226.翻转二叉树.md"},o=l("",12),e=[o];function r(t,c,y,F,D,A){return a(),n("div",null,e)}const d=s(p,[["render",r]]);export{i as __pageData,d as default};

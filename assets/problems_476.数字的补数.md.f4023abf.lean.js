@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,d as p}from"./app.22b4b678.js";const i=JSON.parse('{"title":"476. 数字的补数","description":"","frontmatter":{},"headers":[],"relativePath":"problems/476.数字的补数.md"}'),l={name:"problems/476.数字的补数.md"},o=p("",8),e=[o];function t(r,c,F,y,D,C){return a(),n("div",null,e)}const m=s(l,[["render",t]]);export{i as __pageData,m as default};
