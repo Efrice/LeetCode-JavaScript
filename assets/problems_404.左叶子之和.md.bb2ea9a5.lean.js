@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.67d99937.js";const i=JSON.parse('{"title":"404. 左叶子之和","description":"","frontmatter":{},"headers":[],"relativePath":"problems/404.左叶子之和.md"}'),p={name:"problems/404.左叶子之和.md"},o=l("",9),e=[o];function r(t,c,y,F,D,A){return a(),n("div",null,e)}const d=s(p,[["render",r]]);export{i as __pageData,d as default};
