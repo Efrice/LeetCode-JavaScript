@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
-    "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
     "pre": "node ./script/deploy.js",
     "post": "node ./script/postBuild.js"
   },

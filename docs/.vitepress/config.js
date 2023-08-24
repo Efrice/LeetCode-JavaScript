@@ -3,7 +3,7 @@ export default {
   description: "前端 LeetCode 刷题算法进阶之路",
   outDir: "../dist",
   themeConfig: {
-    base: "/",
+    base: "/LeetCode-JavaScript/",
     sidebar: [
       {
         items: [
