@@ -21,6 +21,7 @@ export default {
 					{ text: "13.罗马数字转整数", link: "/problems/13.罗马数字转整数" },
 					{ text: "14.最长公共前缀", link: "/problems/14.最长公共前缀" },
 					{ text: "15.三数之和", link: "/problems/15.三数之和" },
+					{ text: "16.最接近的三数之和", link: "/problems/16.最接近的三数之和" },
 					{ text: "18.四数之和", link: "/problems/18.四数之和" },
 					{ text: "20.有效的括号", link: "/problems/20.有效的括号" },
 					{ text: "21.合并两个有序链表", link: "/problems/21.合并两个有序链表" },
@@ -101,6 +102,7 @@ export default {
 					{ text: "833.字符串中的查找与替换", link: "/problems/833.字符串中的查找与替换" },
 					{ text: "849.到最近的人的最大距离", link: "/problems/849.到最近的人的最大距离" },
 					{ text: "1267.统计参与通信的服务器", link: "/problems/1267.统计参与通信的服务器" },
+					{ text: "1448.统计二叉树中好节点的数目", link: "/problems/1448.统计二叉树中好节点的数目" },
 					{ text: "2236.判断根结点是否等于子结点之和", link: "/problems/2236.判断根结点是否等于子结点之和" },
 					{ text: "2337.移动片段得到字符串", link: "/problems/2337.移动片段得到字符串" },
 					{ text: "2682.找出转圈游戏输家", link: "/problems/2682.找出转圈游戏输家" }
