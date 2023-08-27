@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.8cbbe70d.js";const i=JSON.parse('{"title":"2682. 找出转圈游戏输家","description":"","frontmatter":{},"headers":[],"relativePath":"problems/2682.找出转圈游戏输家.md"}'),p={name:"problems/2682.找出转圈游戏输家.md"},o=l("",9),e=[o];function r(c,t,y,F,D,C){return a(),n("div",null,e)}const _=s(p,[["render",r]]);export{i as __pageData,_ as default};
