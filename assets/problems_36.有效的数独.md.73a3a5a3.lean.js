@@ -1,0 +1,1 @@
+import{_ as s,c as o,o as n,d as a}from"./app.44b545af.js";const q=JSON.parse('{"title":"36. 有效的数独","description":"","frontmatter":{},"headers":[],"relativePath":"problems/36.有效的数独.md"}'),l={name:"problems/36.有效的数独.md"},p=a("",8),t=[p];function D(e,F,c,r,y,C){return n(),o("div",null,t)}const A=s(l,[["render",D]]);export{q as __pageData,A as default};

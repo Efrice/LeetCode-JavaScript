@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,d as p}from"./app.44b545af.js";const i=JSON.parse('{"title":"290. 单词规律","description":"","frontmatter":{},"headers":[],"relativePath":"problems/290.单词规律.md"}'),l={name:"problems/290.单词规律.md"},o=p("",9),t=[o];function e(r,c,F,y,D,A){return n(),a("div",null,t)}const u=s(l,[["render",e]]);export{i as __pageData,u as default};
