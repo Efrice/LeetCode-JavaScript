@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as o}from"./app.7015f040.js";const A=JSON.parse('{"title":"412. Fizz Buzz","description":"","frontmatter":{},"headers":[],"relativePath":"problems/412.FizzBuzz.md"}'),l={name:"problems/412.FizzBuzz.md"},p=o("",9),t=[p];function e(r,c,F,y,D,C){return a(),n("div",null,t)}const i=s(l,[["render",e]]);export{A as __pageData,i as default};

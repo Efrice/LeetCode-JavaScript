@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.7015f040.js";const u=JSON.parse('{"title":"43. 字符串相乘","description":"","frontmatter":{},"headers":[],"relativePath":"problems/43.字符串相乘.md"}'),o={name:"problems/43.字符串相乘.md"},p=l("",7),t=[p];function e(r,c,F,y,D,C){return a(),n("div",null,t)}const i=s(o,[["render",e]]);export{u as __pageData,i as default};

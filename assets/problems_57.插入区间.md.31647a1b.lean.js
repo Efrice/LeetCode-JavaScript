@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.7015f040.js";const i=JSON.parse('{"title":"57. 插入区间","description":"","frontmatter":{},"headers":[],"relativePath":"problems/57.插入区间.md"}'),p={name:"problems/57.插入区间.md"},o=l("",10),e=[o];function t(r,c,F,y,C,D){return a(),n("div",null,e)}const v=s(p,[["render",t]]);export{i as __pageData,v as default};

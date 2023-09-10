@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.7015f040.js";const i=JSON.parse('{"title":"31. 下一个排列","description":"","frontmatter":{},"headers":[],"relativePath":"problems/31.下一个排列.md"}'),p={name:"problems/31.下一个排列.md"},o=l("",11),e=[o];function t(r,c,F,y,D,C){return a(),n("div",null,e)}const m=s(p,[["render",t]]);export{i as __pageData,m as default};
