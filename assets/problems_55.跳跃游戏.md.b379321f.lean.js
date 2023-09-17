@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as l}from"./app.0e2b0497.js";const i=JSON.parse('{"title":"55. 跳跃游戏","description":"","frontmatter":{},"headers":[],"relativePath":"problems/55.跳跃游戏.md"}'),p={name:"problems/55.跳跃游戏.md"},o=l("",8),e=[o];function r(t,c,F,y,D,C){return a(),n("div",null,e)}const u=s(p,[["render",r]]);export{i as __pageData,u as default};

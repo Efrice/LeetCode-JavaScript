@@ -1,0 +1,1 @@
+import{_ as s,c as o,o as n,d as a}from"./app.0e2b0497.js";const q=JSON.parse('{"title":"37. 解数独","description":"","frontmatter":{},"headers":[],"relativePath":"problems/37.解数独.md"}'),l={name:"problems/37.解数独.md"},p=a("",7),t=[p];function e(D,c,r,F,y,u){return n(),o("div",null,t)}const A=s(l,[["render",e]]);export{q as __pageData,A as default};

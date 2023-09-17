@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.0e2b0497.js";const i=JSON.parse('{"title":"47. 全排列 II","description":"","frontmatter":{},"headers":[],"relativePath":"problems/47.全排列II.md"}'),l={name:"problems/47.全排列II.md"},o=p("",7),e=[o];function t(r,c,F,y,D,C){return a(),n("div",null,e)}const m=s(l,[["render",t]]);export{i as __pageData,m as default};
